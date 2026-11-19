@@ -1,8 +1,8 @@
 ﻿{
-    "version":  "1.1.0.0",
+    "version":  "1.1.0.1",
     "fecha":  "19/11/2026",
-    "notas":  "Primera version",
+    "notas":  "Version protegida (ofuscada).",
     "url":  "https://raw.githubusercontent.com/SantBanana/dino-actualizaciones/main/EmulaDescargas.exe",
-    "sha256":  "62155f21e9b62ec274e696a39c0adf3c4fdc0044d3e81c4d3886abbb1c903eed",
-    "firma":  "prgAcTd00QbW17xzLLF0e/30l793k2L3j/UniSXsH/twyce43sUDebDn1heiOi32o5ATya+8qFJ2LOYtTE3Lf0is+cfvhM4PCtdPN7ddIYOv2/4Cspn9q9F/iWueQSz3gPuFrff2qO+gzmURTssZ/Z7heQzgu9Nv4vOzfANVIkitnvQaMQPoYO4Z7bZO59QVSFQYiNq1nW6PQRaWU4mTPVCEOw/1aHTt0fP9oeq+uDDFxiPF9GqQmePI55JY+14MZ2JAwbblVmUIPKCNGBJ+7TcNXb8X2hQkQkAfs5u0eyIoc06Ks0kyDAVlMTNGcw7H1kfn/s0gz7n8MahOoyU3Fw=="
+    "sha256":  "3dc6eed9d5dd68d375fbdf26e1ccdff92f524489bf7bc5590f802da53608b3b4",
+    "firma":  "C23kIPL0q0BD3wmxuZb/fAYrkwqOlkEdTioCJ/9Vh2WYwO8iIumbhZfLC0xEHcvJBcgwv9stCPwhOHa8mgz8tzHu/RuPaxCxqdhrML7vBLJctVTHGDPg3Gh6xPwZkoHQqqCWN2oEgREqqcusihTTDfZaGtISHufkR+1lq/Oi/5dVyc6/dKoT0D6OyiJQOst4YwpzUCDZzedWBeXRVwAPgOzz0RV7J+BJ2z6cfTWzNPB/sdKOcfyyuv1Gx+dPHzGvmHr37BKVRBSekQtY9leVr94I7vywqTSUCfQGxEd1K1w0BHit7lL4NYnL/kzwi/Cq0ROAVaQKOswPm6nsU0bSXQ=="
 }
